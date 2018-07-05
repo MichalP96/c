@@ -2,12 +2,12 @@
 
 int main(void)
 {
-    printf("Michal Pekala\n");
+    printf("Michal Pe\n");
 
-    printf("Michal\nPekala\n");
+    printf("Michal\nPe\n");
 
     printf("Michal ");
-    printf("Pekala");
+    printf("Pe");
 
     getchar();
     return 0;
